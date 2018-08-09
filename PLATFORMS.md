@@ -51,6 +51,7 @@
 * Sega SG-1000
 * Sharp X68000
 * Super Nintendo
+* TI-99/4A
 * TRS-80
 * Vectrex
 * Videopac (Oddysey 2)
@@ -59,6 +60,7 @@
 * WonderSwan
 * WonderSwan Color
 * Z-Machine
+* ZX 81
 * ZX Spectrum
 
 ... More platforms will be added in future releases!
